@@ -1,6 +1,6 @@
 # Mi Biografía
 
-Hola, mi nombre es Andrés.
+Hola, mi nombre es Johnny Fernandez Martinez, tengo 36 años.
 
 Soy estudiante de informática y actualmente estoy aprendiendo Git y GitHub.
 
