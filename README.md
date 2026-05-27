@@ -13,3 +13,9 @@ En este caso en concreto estoy cursando Desarrollo de Plataformas Abiertas con e
 - Escuchar música
 - Programar
 - Ciclismo y tennis de mesa
+
+## Comida favorita
+
+- Pizza Suprema
+- Hamburguesas de la soda la Tejareña
+- Cualquier comida mexicana
