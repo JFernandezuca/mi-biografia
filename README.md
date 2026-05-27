@@ -19,3 +19,8 @@ En este caso en concreto estoy cursando Desarrollo de Plataformas Abiertas con e
 - Pizza Suprema
 - Hamburguesas de la soda la Tejareña
 - Cualquier comida mexicana
+
+## Contacto
+
+- Correo: ejemplo@gmail.com
+- GitHub: JFernandezuca
